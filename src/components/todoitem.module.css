@@ -1,0 +1,23 @@
+.item{
+    font-weight: bold;
+    font-size: larger;
+    padding: 5px;
+    width: 400px;
+  
+}
+.line{
+    border: 1px solid #f4f4f4;
+}
+.deletebutton{
+    background-color: rgb(255, 213, 0);
+    color: white;
+    padding: 0 20px;
+    border: none;
+    border-radius: 6px;
+}
+.container{
+    display: flex;
+}
+.status{
+    text-decoration: line-through;
+}
